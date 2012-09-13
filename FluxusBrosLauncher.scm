@@ -1,6 +1,6 @@
-(current-directory "/home/ted/Sources/git/FluxusBros")
+(current-directory "/Users/TchernoBob/Sources/Git/FluxusBros")
 
 (load "FluxusBros.scm")
 
-(set! load-visu-file-force #t)
+(set! load-visu-file-force #f) 
 

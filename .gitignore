@@ -12,3 +12,8 @@ visus/A\ debugger/
 visus/Experimental
 #Tests files
 Tests/
+#load config
+load-config
+#DSStore
+.DS_Store
+visus/.DS_Store

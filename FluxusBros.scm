@@ -217,7 +217,7 @@
         (init-field
             (surface-resolution (vector 500 500))
             (plugin
-                (ffgl-load "PosterizeVFX" (vector-ref surface-resolution 0) (vector-ref surface-resolution 1))
+                (ffgl-load "Syphon Server" (vector-ref surface-resolution 0) (vector-ref surface-resolution 1))
             )
         )
         (field

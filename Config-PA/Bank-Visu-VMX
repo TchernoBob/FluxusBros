@@ -1,35 +1,29 @@
+BANK-PAD-1-VMX
+VMX
+midi-ccn
+(vector 2 44)
+(send god set-crossfader-visu #:visu "equal_simple" #:player "VMX")
+(void)
+#f
+BANK-PAD-2-VMX
+VMX
+midi-ccn
+(vector 2 4)
+(send god set-crossfader-visu #:visu "equal_basse" #:player "VMX")
+(void)
+#f
 BANK-PAD-3-VMX
 VMX
 midi-ccn
-(vector 2 75)
+(vector 2 45)
 (send god set-crossfader-visu #:visu "equal_sym" #:player "VMX")
 (void)
 #f
-BANK-PAD-6-VMX
-VMX
-midi-ccn
-(vector 2 64)
-(send god set-crossfader-visu #:visu "wassup" #:player "VMX")
-(void)
-#f
-BANK-PAD-7-VMX
-VMX
-midi-ccn
-(vector 2 24)
-(send god set-crossfader-visu #:visu "foret" #:player "VMX")
-(void)
-#f
-BANK-PAD-8-VMX
-VMX
-midi-ccn
-(vector 2 65)
-(send god set-crossfader-visu #:visu "matrix" #:player "VMX")
-(void)
-#f
-BANK-PAD-20-VMX
+BANK-PAD-4-VMX
 VMX
 midi-ccn
 (vector 2 1)
-(send god set-crossfader-visu #:visu "bully" #:player "VMX")
+(send god set-crossfader-visu #:visu "equal_grd" #:player "VMX")
 (void)
 #f
+

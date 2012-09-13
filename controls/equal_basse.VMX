@@ -2,13 +2,13 @@ equal_basse
 VMX
 hint-wire-strippled
 midi-ccn
-#(2 71)
+#(2 42)
 0
 -1
 1.0
 1.0
-0.3
-0.4
+0
+0
 equal_basse
 VMX
 trans-y-sin-coeff
@@ -200,13 +200,13 @@ equal_basse
 VMX
 hint-solid
 midi-ccn
-#(2 61)
+#(2 47)
 0
 -1
 1.0
 1.0
-0.3
-0.4
+0
+0
 equal_basse
 VMX
 clr-b
@@ -310,13 +310,13 @@ equal_basse
 VMX
 hint-wire
 midi-ccn
-#(2 81)
+#(2 7)
 0
 -1
 1.0
 1.0
-0.3
-0.4
+0
+0
 equal_basse
 VMX
 scale-z
